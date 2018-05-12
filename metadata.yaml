@@ -1,0 +1,26 @@
+_repo: The-Pictorial-Grammar_45023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crowquill, Alfred
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '3698'
+    url: http://www.gutenberg.org/2009/agents/3698
+description: Illustrated by the author.
+gutenberg_issued: '2014-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: The Pictorial Grammar
+url: http://www.gutenberg.org/ebooks/45023
